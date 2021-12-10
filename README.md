@@ -25,10 +25,15 @@ Assuming that the user (customer) has already made a search for an electrician i
 * You can click on Portfolio and Reviews to see previous work and ratings of the tradesperson respectively. You can scroll down to view bottom portion.
 * Click on Description again. Click on Call, Text, Email and Callback icons to view content in a simulated dialog box. Click outside the simulated dialog box to close
 * Click on the Search Results located at the top left corner and then click one more time to reach the home screen.
+* At the bottom of the mobile screen, click on Account. This will show the user's general current or past activities.
+* Click on Leave a Review button to view simulated content. It shows how users can review performance of a tradesprerson by clicking on Leave a Review.
+* Click again on the Search icon on the bottom left corner to get back to home.
 
 The following step mainly shows the interface of the tradesperson:
-* At the bottom of the mobile screen, click on Account. This will show the user interface of the tradesperson.
-* Click on Leave a Review button to view simulated content.
+* Click on the More icon on the right bottom corner of the screen.
+* It displays a dashboard with an overview of activities that the tradesperson can carry out. Click on the Callback Requests button.
+* You can view a number of callbacks (scroll down to view more). You can view level of urgency as well. Click on the second Callback button to view callback request detail.
+* When the callback request Dialog box appears, click on the Callback Now button to view how calls can be made directly to awaiting customers.
 
 
 ## Built with
